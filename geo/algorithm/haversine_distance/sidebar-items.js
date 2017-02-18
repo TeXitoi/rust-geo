@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["HaversineDistance","Returns the distance between two geometries."]]});
